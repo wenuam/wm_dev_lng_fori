@@ -123,6 +123,14 @@ It is a [Domain Specific Language][dsl] taylored for [data analysis][da] and man
 [tutorial]: https://github.com/andreaferretti/factor-tutorial
 
 
+[Claire][cl]: high-level, functional, [object-oriented][oop], rule processing
+
+[cl]: http://claire3.free.fr/
+[cl]: https://github.com/ycaseau/CLAIRE4
+[cl]: https://sites.google.com/view/claire4/home
+[cl]: https://www.claire-language.com/
+
+
 [Fire][fire]: [reactive programming][rp], streams, data processing.
 
 [fire]: https://github.com/jweinst1/Fire
